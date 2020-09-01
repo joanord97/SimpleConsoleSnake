@@ -1,0 +1,13 @@
+/home/joachim/Projects/Programing/dotnet/snake/bin/Debug/netcoreapp3.1/main
+/home/joachim/Projects/Programing/dotnet/snake/bin/Debug/netcoreapp3.1/main.deps.json
+/home/joachim/Projects/Programing/dotnet/snake/bin/Debug/netcoreapp3.1/main.runtimeconfig.json
+/home/joachim/Projects/Programing/dotnet/snake/bin/Debug/netcoreapp3.1/main.runtimeconfig.dev.json
+/home/joachim/Projects/Programing/dotnet/snake/bin/Debug/netcoreapp3.1/main.dll
+/home/joachim/Projects/Programing/dotnet/snake/bin/Debug/netcoreapp3.1/main.pdb
+/home/joachim/Projects/Programing/dotnet/snake/obj/Debug/netcoreapp3.1/main.csprojAssemblyReference.cache
+/home/joachim/Projects/Programing/dotnet/snake/obj/Debug/netcoreapp3.1/main.AssemblyInfoInputs.cache
+/home/joachim/Projects/Programing/dotnet/snake/obj/Debug/netcoreapp3.1/main.AssemblyInfo.cs
+/home/joachim/Projects/Programing/dotnet/snake/obj/Debug/netcoreapp3.1/main.csproj.CoreCompileInputs.cache
+/home/joachim/Projects/Programing/dotnet/snake/obj/Debug/netcoreapp3.1/main.dll
+/home/joachim/Projects/Programing/dotnet/snake/obj/Debug/netcoreapp3.1/main.pdb
+/home/joachim/Projects/Programing/dotnet/snake/obj/Debug/netcoreapp3.1/main.genruntimeconfig.cache
